@@ -2,6 +2,7 @@ TASK
 
 to continue: 
 -sign up form hovering sliding
+-Login page to Homepage
 
 not yet implemented:
 -cart system
@@ -9,4 +10,5 @@ not yet implemented:
 
 optional:
 multiple file
+//add For educational purpose
 
